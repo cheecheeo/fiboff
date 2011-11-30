@@ -1,0 +1,10 @@
+Haskell:
+  runhaskell fibonacci_backoff.hs
+
+Python:
+  python fibonacci_backoff.py
+
+OCaml
+  ocaml
+  #require "unix";;
+  #use "fibonacci_backoff.ml"
